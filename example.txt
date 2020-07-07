@@ -1,0 +1,3 @@
+Zstandard: O++ S++ I++ C+ E M V+ PS++ D++
+Wordpress: O++ S++ I-- C- E- M V- !PS D--
+Windows 10: O-- S- I- C->+ E->++ M-- V-- !PS D---
